@@ -1,0 +1,14 @@
+/* Full page scroll CSS styles */
+
+.full-page-scroll {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.page-section {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+/* Add any additional full page scroll styles here */

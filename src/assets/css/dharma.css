@@ -1,0 +1,17 @@
+/* Dharma CSS styles for the project */
+
+@font-face {
+    font-family: 'SFUDinCons';
+    src: url('../../components/pages/static/fonts/SFUDinNeuGroBoldCondensed.TTF') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFUDin';
+    src: url('../../components/pages/static/fonts/SFUDinNeuGroLight.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Additional styles can be added here */
